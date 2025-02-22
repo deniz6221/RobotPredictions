@@ -21,4 +21,4 @@ The model predicts some image (ReconstructedImages.png) but its not perfect, the
 
 ### Conclusion
 
-I only trained the models for 10000 iterations. Although they output okay results they can significantly improve with more training.
+I only trained the models for 10000 iterations. Although they output okay results, they can significantly improve with more training.
